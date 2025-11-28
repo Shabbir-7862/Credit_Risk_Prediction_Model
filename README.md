@@ -8,17 +8,17 @@ It includes full data preprocessing, model comparison, model serialization, and 
 Credit risk prediction is essential for financial institutions to determine whether a borrower is likely to repay a loan.
 This project aims to:
 
-    Analyze the German credit dataset
+    1. Analyze the German credit dataset
 
-    Perform data cleaning & outlier detection
+    2. Perform data cleaning & outlier detection
 
-    Select relevant features
+    3. Select relevant features
 
-    Train multiple machine learning models
+    4. Train multiple machine learning models
 
-    Select the best-performing algorithm
+    5. Select the best-performing algorithm
 
-    Deploy the model using a simple Streamlit interface
+    6. Deploy the model using a simple Streamlit interface
 
 # 📂 Dataset
 
