@@ -1,7 +1,7 @@
 # Credit-Risk-Prediction-Model-Algorithm
 
-    This project builds a machine learning model to predict credit risk using the German Credit Risk Dataset from Kaggle.
-    It includes full data preprocessing, model comparison, model serialization, and a simple Streamlit UI for local deployment.
+This project builds a machine learning model to predict credit risk using the German Credit Risk Dataset from Kaggle.
+It includes full data preprocessing, model comparison, model serialization, and a simple Streamlit UI for local deployment.
 
 # 🚀 Project Overview
 
